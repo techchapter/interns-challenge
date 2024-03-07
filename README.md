@@ -3,20 +3,20 @@
 #### _Read this before you start!_
 _At Tech Chapter we receive a lot of applications for internships from all over the country. All though we are very excited about this, we have limited capacity in interviewing all applicants. Because of this, we have decided to present all applicants with a coding challenge that will help os give a better insight in your current coding skills and to give all application similar conditions in our assessment._
 
-_There is not a single solution for this challenge, and it is not a recuirement to complete all task. The idea is to give us a better understanding of your coding skills while you will get a better understanding of our expectations for your first time as apprentice at Tech chapter._
+_There is not a single solution for this challenge, and it is not a recuirement to complete all tasks. The idea is to give us a better understanding of your coding skills, while you will get a better understanding of our expectations for your first time as apprentice at Tech chapter._
 
 _The challenge is split up into 2 scenarios_
 1. _A backend challenge writtin in C#.NET coding language. This will be the primary language used at an internship at Tech Chapter._
 2. _A frontend challenge writting in TypeScript, using React._
 _Programming languages like Go, Terraform etc. may be used as well. If you would like to demonstrate your skills in another way, feel free to submit code relevant that represents your skills._
 
-_When you have finished challenge please archive and submit your solution to intern@techchapter.com along with your application, resume, public git repositories, and any grade sheets you may have._
+_When you have finished the challenge please archive and submit your solution to intern@techchapter.com along with your application, resume, public git repositories, and any grade sheets you may have._
 
 _Happy coding ;-)_
 
 ## Introduction to the backend tasks
 
-In this repository you will find a single tasks, Holiday Calendar
+In this repository you will find a single task, Holiday Calendar
 
 You will find a number of Interface files within the `src/`-folder along with some stub Class implementations of the Interfaces. In the `tests/`-folder you will find some [NUnit](https://docs.microsoft.com/en-us/dotnet/core/testing/unit-testing-with-nunit) test cases defined for the class implementations. Since the classes are currently stubbed the test cases will fail. Your job will be to change the class implementation to make the unit test cases pass. Once the test case passes, the task is completed in accordence with [TDD](https://en.wikipedia.org/wiki/Test-driven_development#:~:text=Test%2Ddriven%20development%20(TDD),software%20against%20all%20test%20cases.) principles.
 **Note:** you should NOT do any changes to the Interface files or the test case files, but you may change or add any class implementation as you see fit.
@@ -39,7 +39,7 @@ Holidays are a national mater not supported by the [GregorianCalendar](https://d
 
 #### Userstory 1
 **AS A** bookkeeper  
-**I WANT** a to know if a given day is a holiday  
+**I WANT** to know if a given day is a holiday  
 **SO THAT** i know wether my colleagues must do time registration or not.  
 
 #### Accept criteria
@@ -55,7 +55,7 @@ Holidays are a national mater not supported by the [GregorianCalendar](https://d
 
 #### Userstory 2
 **AS A** bookkeeper
-**I WANT** a to know all holidays within a time period  
+**I WANT** to know all holidays within a time period  
 **SO THAT** I can tell my colleagues in advance  
 
 **Scenario: Easter month**  
