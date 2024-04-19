@@ -1,4 +1,4 @@
-# Tech Chapter apprentice coding challenge
+# Tech Chapter interns coding challenge
 
 #### _Read this before you start!_
 _At Tech Chapter we receive a lot of applications for internships from all over the country. All though we are very excited about this, we have limited capacity in interviewing all applicants. Because of this, we have decided to present all applicants with a coding challenge that will help os give a better insight in your current coding skills and to give all application similar conditions in our assessment._
